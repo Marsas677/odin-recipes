@@ -1,10 +1,9 @@
 .header{
     text-align: center;
     font-size: 60px;
-    font-family: "Courier New",Verdana, sans-serif;
-    background-color:rgb(56, 56, 167);
-    border: 5px solid #377a62;
-    color: khaki;
+    font-family: Verdana, sans-serif;
+    background-color:rgb(56, 0, 0);
+    color: #ffffff;
 }
 
 .dv1{
@@ -15,7 +14,7 @@
 }
 
 body{
-    background-color:black;
+    background-color:wheat;
 }
 
 .receita{
